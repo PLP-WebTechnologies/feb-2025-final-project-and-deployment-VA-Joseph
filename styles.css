@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  background: #f9f9f9;
+  color: #333;
+  padding: 20px;
+}
+
+header {
+  background: #003366;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section.intro {
+  margin-bottom: 30px;
+}
+
+.blog-posts article {
+  background: #fff;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-left: 5px solid #003366;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #eee;
+  margin-top: 40px;
+}
+
+form {
+  max-width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+form label, form input, form textarea {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 1em;
+}
+
+button {
+  background: #003366;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  header, main, footer {
+    padding: 10px;
+  }
+
+  nav a {
+    display: block;
+    margin: 5px 0;
+  }
+}

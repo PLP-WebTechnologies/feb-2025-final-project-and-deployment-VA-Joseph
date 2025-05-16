@@ -1,25 +1,21 @@
-# Final Project and Deployment
+# JEMICIT Blog
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+## Overview
+This is a responsive personal blog site built for the PLP Week 8 Final Project assignment. It features HTML5, CSS3, and JavaScript to create a multi-page website that showcases writing, vision, and contact details.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Pages
+- **Home** – Intro + Featured blog posts
+- **About** – Mission and story
+- **Contact** – Contact form with form validation (JS)
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages for deployment
 
-## Tasks
+## Live Demo
+👉 [https://VA-Joseph.github.io/feb-2025-final-project-and-deployment-VA-Joseph](#)
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
-
-Good luck and happy coding! 🚀💻
+## Author
+Joseph Mshana
